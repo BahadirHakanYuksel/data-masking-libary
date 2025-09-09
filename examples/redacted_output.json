@@ -1,0 +1,37 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "[REDACTED]",
+      "phone": "[REDACTED]REDACTED]-[REDACTED]",
+      "ssn": "[REDACTED]DACTED]ED]-[REDACTED]",
+      "address": "[REDACTED] Main Street, Anytown, NY [REDACTED]CTED]",
+      "credit_card": "[REDACTED]ACTED]DACTED]-[REDACTED]"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "[REDACTED]",
+      "phone": "[REDACTED]REDACTED]-[REDACTED]",
+      "ssn": "[REDACTED]DACTED]ED]-[REDACTED]",
+      "address": "[REDACTED] Oak Avenue, Somewhere, CA [REDACTED]CTED]",
+      "credit_card": "[REDACTED]ACTED]DACTED]-[REDACTED]"
+    },
+    {
+      "id": 3,
+      "name": "Bob Johnson",
+      "email": "[REDACTED]",
+      "phone": "[REDACTED]REDACTED].[REDACTED]",
+      "ssn": "[REDACTED]DACTED]ED]-[REDACTED]",
+      "address": "[REDACTED] Pine Road, Elsewhere, TX [REDACTED]CTED]",
+      "credit_card": "[REDACTED]ACTED]DACTED]-[REDACTED]"
+    }
+  ],
+  "company_info": {
+    "name": "Example Corp",
+    "support_email": "[REDACTED]",
+    "phone": "[REDACTED]REDACTED]-0[REDACTED]",
+    "address": "[REDACTED] Business Plaza, Corporate City, NY [REDACTED]CTED]"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "strategy": "replace",
+  "preserve_format": true,
+  "mask_character": "\u2588",
+  "partial_mask": true,
+  "encryption_key": null,
+  "custom_patterns": {},
+  "locale": "en_US",
+  "confidence_threshold": 0.8,
+  "preserve_domains": true,
+  "whitelist": []
+}
